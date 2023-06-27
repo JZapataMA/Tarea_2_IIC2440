@@ -6,7 +6,8 @@ Chorizo junto a Joaquín Burdiles
 ## Organización de archivos
 
 - El archivo 'PageRank.ipynb' incluye todo el algoritmo de PageRank.
-- El Archivo 'SSSP.ipynb' incluye el algoritmo utilizado para SSSP.
+- El archivo 'SSSP.ipynb' incluye el algoritmo utilizado para SSSP.
+- El archivo 'Tarea_2_2en1' incluye la tarea completa con ámbos algoritmos.
 - Tengo ganas de escribir y este apartado era completamente innecesario.
 
 ## ¿Cómo usar?
